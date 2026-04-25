@@ -19,6 +19,6 @@ Recent Frontira work has been featured in the NVIDIA GTC Jensen Huang Keynote, P
 
 **Links**
 
-- Website: https://www.frontira.io
+- Website: https://www.frontira.com
 - LinkedIn: https://www.linkedin.com/company/frontira
 - X: https://x.com/FrontiraHQ
