@@ -8,7 +8,7 @@ Based in Austria. Working with teams across Europe.
 
 ---
 
-Recent Frontira work has been featured in the NVIDIA GTC Jensen Huang Keynote, Peter Steinberger's TED Talk, NBC News, Business Insider, Business Punk, Der Standard, Die Presse, and 36Kr.
+Recent Frontira work has been featured in the NVIDIA GTC Jensen Huang Keynote, Peter Steinberger's TED Talk, NBC News, Business Insider, Business Punk, Der Standard, Die Presse, DAS INVESTMENT, and 36Kr.
 
 **What we build**
 
